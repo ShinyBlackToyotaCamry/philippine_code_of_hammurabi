@@ -1,0 +1,29 @@
+{
+  "version" : "0.0.1.b1.main.190720-1517",
+  "commit_version" : "0.0.1.b1.main.190720-1517",
+  "toxic filipino traits" : [
+     { "link" : "https://old.reddit.com/r/Philippines/comments/bt76md/what_are_your_experiences_with_toxic_filipino/" },
+     { "link" : "https://old.reddit.com/r/Philippines/comments/c5zcy5/supermarket_frustrations/" },
+     { "link" : "https://old.reddit.com/r/Philippines/comments/byyo7t/mmda_rant/eqon1o0/" }
+  ],
+  "philippine entertainment industry complaints" : [
+    { "link" : "https://old.reddit.com/r/Philippines/comments/ccq1t8/rant_jesus_the_entertainment_industry_in_this/" },
+    { "link" : "https://old.reddit.com/r/Philippines/comments/ccmn56/hello_pinoy_redditors_what_are_your_thoughts/" }
+  ],
+  "migration" : [
+    { "link" : "https://www.reddit.com/r/Philippines/comments/cdttu7/true_true/etwd1ct/" }
+  ],
+  "people who work in HR" : [
+    { "link" : "https://old.reddit.com/r/Philippines/comments/cf2gsf/askredditph_people_who_work_in_hr_what_are_the/" }
+  ],
+  "tips on starting an early career in IT" : [
+    { "link" : "https://old.reddit.com/r/Philippines/comments/cdvf86/tips_on_starting_an_early_career_in_it/" }
+  ],
+
+  "random" : [
+    { "texts" : "improved economic status; higher rates of education; and specifically working opportunities for women." },
+    { "texts" : "videoke/karaoke." },
+    { "texts" : "catcalling no - be better." },
+    { "texts" : "suggested travel etiquette modicum hammurabi" }
+  ]
+}
